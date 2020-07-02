@@ -19,3 +19,4 @@
             GetComponent<Image>().alphaHitTestMinimumThreshold = 0.5f;
         }
     }
+
