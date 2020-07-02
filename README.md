@@ -5,7 +5,7 @@
 
 1. 要自訂感應區域的圖片要先設定
 
-![Unity 按鈕 自訂感應區](/tutorial1.png "Unity 按鈕 自訂感應區")
+![Unity 按鈕 自訂感應區](/Tutorial1.png "Unity 按鈕 自訂感應區")
 
 2. 添加 C# 給予按鈕
 
