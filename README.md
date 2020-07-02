@@ -9,14 +9,15 @@
 
 2. 添加 C# 給予按鈕
 
-    using UnityEngine;
-    using UnityEngine.UI;
+```
+using UnityEngine;
+using UnityEngine.UI;
 
-    public class ButtonCustomArea : MonoBehaviour
+public class ButtonCustomArea : MonoBehaviour
+{
+    private void Start()
     {
-        private void Start()
-        {
-            GetComponent<Image>().alphaHitTestMinimumThreshold = 0.5f;
-        }
+        GetComponent<Image>().alphaHitTestMinimumThreshold = 0.5f;
     }
-
+}
+```
